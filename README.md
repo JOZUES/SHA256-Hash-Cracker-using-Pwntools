@@ -38,8 +38,11 @@ exit
 ### Directory Structure
 
 sha256-cracker/
+
 ├── crack.py          # Main script
+
 ├── gamer.txt         # Wordlist file (you provide)
+
 └── README.md         # Project documentation
 ### Disclaimer
 This tool is intended solely for educational and ethical hacking purposes.
@@ -51,6 +54,7 @@ See the LICENSE file for details.
 
 ### Author
 Developed by JOZUES
+
 Feel free to fork, contribute, and star  the repo!
 
 
